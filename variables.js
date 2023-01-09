@@ -16,6 +16,3 @@ const ejemplo3 = "variable que no puede cambiar su valor";
  var numeroEntero = 12;
  var numeroNegativo = -12;
  var numeroDecimal = 0.124;
-
-//Operadores:
-//Simbolos matematicos que se usan para calcular valores de dos o mas elementos:
