@@ -1,4 +1,6 @@
-/*function Auto(puertas, color, marca, año, ruedas){
+/* Funcion constructora:
+
+function Auto(puertas, color, marca, año, ruedas){
     this.puertas = puertas;
     this.color = color;
     this.marca = marca;
@@ -15,7 +17,9 @@ miPrimerAuto.info();
 console.log(miPrimerAuto);
 console.log(miPrimerAuto.marca);
 */
-/*class Auto2{
+/*Expresion de clase:
+
+class Auto2{
     constructor(puertas, color, marca, año, ruedas){
     this.puertas = puertas;
     this.color = color;
